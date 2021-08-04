@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-08-04T17:09:37.169Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-08-04T17:09:37.169Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
+        <id>6106638c3306a507d1bfc15c</id>
+        <link href="https://www.freecodecamp.org/news/sql-where-clause-examples/"/>
+        <updated>2021-08-04T15:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
+        <id>610a56153306a507d1bfd5f0</id>
+        <link href="https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/"/>
+        <updated>2021-08-04T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Background Color – How to Change the Background Color in HTML]]></title>
+        <id>610641743306a507d1bfbfd4</id>
+        <link href="https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/"/>
+        <updated>2021-08-04T14:46:14.000Z</updated>
+        <summary type="html"><![CDATA[You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS Shapes for Interesting User Controls and Navigation]]></title>
+        <id>https://css-tricks.com/?p=345274</id>
+        <link href="https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/"/>
+        <updated>2021-08-04T14:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …
+The post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Children And Iteration Methods]]></title>
+        <id>https://smashingmagazine.com/2021/08/react-children-iteration-methods/</id>
+        <link href="https://smashingmagazine.com/2021/08/react-children-iteration-methods/"/>
+        <updated>2021-08-04T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Arihant Verma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Algorithms for Technical Interviews]]></title>
+        <id>6109eca73306a507d1bfd3d2</id>
+        <link href="https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/"/>
+        <updated>2021-08-04T01:35:10.000Z</updated>
+        <summary type="html"><![CDATA[During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a Dictionary with React and Material UI]]></title>
+        <id>6109e5233306a507d1bfd3ad</id>
+        <link href="https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/"/>
+        <updated>2021-08-04T01:03:03.000Z</updated>
+        <summary type="html"><![CDATA[React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions as Proxies]]></title>
+        <id>https://css-tricks.com/?p=345744</id>
+        <link href="https://css-tricks.com/serverless-functions-as-proxies/"/>
+        <updated>2021-08-03T20:23:32.000Z</updated>
+        <summary type="html"><![CDATA[The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …
+The post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Daily GitHub Backups, Restored in Seconds]]></title>
+        <id>https://css-tricks.com/?p=345807</id>
+        <link href="https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT"/>
+        <updated>2021-08-03T20:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …
+The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Rewind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Loop – How to Loop Through an Array in JS]]></title>
+        <id>61079f873306a507d1bfc360</id>
+        <link href="https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/"/>
+        <updated>2021-08-03T19:53:47.000Z</updated>
+        <summary type="html"><![CDATA[There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Communities to Join to Help You Grow Your Tech Career]]></title>
+        <id>6104ec2f3306a507d1bfbc24</id>
+        <link href="https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/"/>
+        <updated>2021-08-03T19:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Access Clipboard in Android (and Clear it)]]></title>
+        <id>610948d93306a507d1bfd0d5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/"/>
+        <updated>2021-08-03T19:10:40.000Z</updated>
+        <summary type="html"><![CDATA[The copy and paste functionality on Android smartphones might seem to be a "one-time" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Free Coding Games to Learn Programming for Beginners]]></title>
+        <id>610640c03306a507d1bfbfcf</id>
+        <link href="https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/"/>
+        <updated>2021-08-03T15:11:05.000Z</updated>
+        <summary type="html"><![CDATA[A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum]]></title>
+        <id>61084aac3306a507d1bfc81c</id>
+        <link href="https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/"/>
+        <updated>2021-08-03T15:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive on Skipping to Content]]></title>
+        <id>https://css-tricks.com/?p=345154</id>
+        <link href="https://css-tricks.com/a-deep-dive-on-skipping-to-content/"/>
+        <updated>2021-08-03T14:35:48.000Z</updated>
+        <summary type="html"><![CDATA[While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …
+The post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Paul Ratcliffe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build Resilient JavaScript UIs]]></title>
+        <id>https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/</id>
+        <link href="https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/"/>
+        <updated>2021-08-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Callum Hart)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Modules (The Native Ones)]]></title>
+        <id>https://css-tricks.com/?p=345756</id>
+        <link href="https://css-tricks.com/css-modules-the-native-ones/"/>
+        <updated>2021-08-02T18:28:28.000Z</updated>
+        <summary type="html"><![CDATA[They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. 
+Native CSS Modules are …
+The post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Playable Synth Keyboard]]></title>
+        <id>https://css-tricks.com/?p=345178</id>
+        <link href="https://css-tricks.com/how-to-code-a-playable-synth-keyboard/"/>
+        <updated>2021-08-02T14:36:09.000Z</updated>
+        <summary type="html"><![CDATA[With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …
+The post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bret Cameron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/</id>
+        <link href="https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/"/>
+        <updated>2021-08-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
+        <link href="https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/"/>
+        <updated>2021-07-31T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Shared ESLint Configuration]]></title>
+        <id>https://css-tricks.com/?p=345628</id>
+        <link href="https://katydecorah.com/code/eslint-config/"/>
+        <updated>2021-07-30T20:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …
+The post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conjuring Generative Blobs With The CSS Paint API]]></title>
+        <id>https://css-tricks.com/?p=345256</id>
+        <link href="https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/"/>
+        <updated>2021-07-30T14:54:36.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …
+The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>George Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal]]></title>
+        <id>https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/</id>
+        <link href="https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/"/>
+        <updated>2021-07-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
+        <id>https://css-tricks.com/?p=345518</id>
+        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
+        <updated>2021-07-29T19:49:32.000Z</updated>
+        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
+[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
+…
+The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
+        <id>https://css-tricks.com/?p=344993</id>
+        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
+        <updated>2021-07-29T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
+The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Loren Sands-Ramshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
+        <id>https://css-tricks.com/?p=345260</id>
+        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
+        <updated>2021-07-29T14:47:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
+        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
+        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
+        <updated>2021-07-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Elad Shechter)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
+        <id>https://css-tricks.com/?p=345404</id>
+        <link href="https://css-tricks.com/safari-15-opinions/"/>
+        <updated>2021-07-28T20:21:55.000Z</updated>
+        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
+The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
+        <id>https://css-tricks.com/?p=320544</id>
+        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
+        <updated>2021-07-28T14:37:34.000Z</updated>
+        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
+The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
+        <link href="https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
+        <updated>2021-07-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=345169</id>
+        <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
+        <updated>2021-07-27T23:18:33.000Z</updated>
+        <summary type="html"><![CDATA[I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …
+The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ES2021 Features]]></title>
+        <id>https://css-tricks.com/?p=345400</id>
+        <link href="https://h3manth.com/ES2021/"/>
+        <updated>2021-07-27T23:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. 
+There are new things like “arbitrarily chuck underscores …
+The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
+        <updated>2021-07-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
+        <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
+        <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
+        <updated>2021-07-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Attracting Clients To Your Agency]]></title>
+        <id>https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/</id>
+        <link href="https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/"/>
+        <updated>2021-07-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
+        <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
+        <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
+        <updated>2021-07-22T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Tools And Resources]]></title>
+        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
+        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
+        <updated>2021-07-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
+        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
+        <updated>2021-07-20T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
+        <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
+        <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
+        <updated>2021-07-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Colby Fayock)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
+        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
+        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
+        <updated>2021-07-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
+        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
+        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
+        <updated>2021-07-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
+        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
+        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
+        <updated>2021-07-15T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
+        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
+        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
+        <updated>2021-07-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
+        <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
+        <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
+        <updated>2021-07-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From jQuery To Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/"/>
+        <updated>2021-07-13T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
+        <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
+        <updated>2021-07-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
+        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
+        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
+        <updated>2021-07-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Todd Libby)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
+        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
+        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
+        <updated>2021-07-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Uma Victor)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
+        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
+        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
+        <updated>2021-07-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
+        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
+        <updated>2021-07-06T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
+        </author>
+    </entry>
+</feed>
