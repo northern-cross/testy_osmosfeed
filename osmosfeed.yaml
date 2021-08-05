@@ -3,5 +3,5 @@ sources:
   - href: https://api.github.com/feeds
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+#  - href: https://www.smashingmagazine.com/feed/
+#  - href: https://www.freecodecamp.org/news/rss/
