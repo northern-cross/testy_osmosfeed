@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T17:09:37.169Z</id>
+    <id>urn:2021-08-05T00:23:26.014Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T17:09:37.169Z</updated>
+    <updated>2021-08-05T00:23:26.014Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://css-tricks.com/?p=345866</id>
+        <link href="https://www.smashingmagazine.com/2021/06/web-workers-2021/"/>
+        <updated>2021-08-04T23:44:06.000Z</updated>
+        <summary type="html"><![CDATA[You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:
+[…] regardless 
+…
+The post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
+        <id>610afe863306a507d1bfdf1e</id>
+        <link href="https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/"/>
+        <updated>2021-08-04T23:25:30.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Padding – CSS Padding Order]]></title>
+        <id>6106575b3306a507d1bfc104</id>
+        <link href="https://www.freecodecamp.org/news/html-padding-css-padding-order/"/>
+        <updated>2021-08-04T21:33:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
         <id>6106638c3306a507d1bfc15c</id>
@@ -92,7 +125,8 @@ The post Serverless Functions as Proxies appeared first on CSS-Tricks. You can s
         <id>https://css-tricks.com/?p=345807</id>
         <link href="https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT"/>
         <updated>2021-08-03T20:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result …
 The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Rewind</name>
@@ -124,26 +158,6 @@ The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on C
         <link href="https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/"/>
         <updated>2021-08-03T19:10:40.000Z</updated>
         <summary type="html"><![CDATA[The copy and paste functionality on Android smartphones might seem to be a "one-time" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Free Coding Games to Learn Programming for Beginners]]></title>
-        <id>610640c03306a507d1bfbfcf</id>
-        <link href="https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/"/>
-        <updated>2021-08-03T15:11:05.000Z</updated>
-        <summary type="html"><![CDATA[A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum]]></title>
-        <id>61084aac3306a507d1bfc81c</id>
-        <link href="https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/"/>
-        <updated>2021-08-03T15:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -273,7 +287,8 @@ The post So you want to self-publish books and courses on programming appeared f
         <id>https://css-tricks.com/?p=345260</id>
         <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
         <updated>2021-07-29T14:47:47.000Z</updated>
-        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is …
 The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -326,20 +341,9 @@ The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared f
         <id>https://css-tricks.com/?p=345169</id>
         <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
         <updated>2021-07-27T23:18:33.000Z</updated>
-        <summary type="html"><![CDATA[I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points …
 The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ES2021 Features]]></title>
-        <id>https://css-tricks.com/?p=345400</id>
-        <link href="https://h3manth.com/ES2021/"/>
-        <updated>2021-07-27T23:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. 
-There are new things like “arbitrarily chuck underscores …
-The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -512,16 +516,6 @@ The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Trick
         <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
-        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
-        <updated>2021-07-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
         </author>
     </entry>
 </feed>
